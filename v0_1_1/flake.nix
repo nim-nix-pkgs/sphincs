@@ -11,7 +11,7 @@
   inputs.src-sphincs-v0_1_1.owner = "~ehmry";
   inputs.src-sphincs-v0_1_1.ref   = "refs/tags/v0.1.1";
   inputs.src-sphincs-v0_1_1.repo  = "nim_sphincs";
-  inputs.src-sphincs-v0_1_1.type  = "other";
+  inputs.src-sphincs-v0_1_1.type  = "sourcehut";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
   let 
