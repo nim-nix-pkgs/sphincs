@@ -37,22 +37,22 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-sphincs-master": "src-sphincs-master"
+        "src-sphincs-v0_1_0": "src-sphincs-v0_1_0"
       }
     },
-    "src-sphincs-master": {
+    "src-sphincs-v0_1_0": {
       "flake": false,
       "locked": {
-        "lastModified": 1525240508,
-        "narHash": "sha256-wbVd6bSytsJv6C++4yGTG5PBPhkYRPdBM5TpBHJETRI=",
+        "lastModified": 1524568119,
+        "narHash": "sha256-AaiQ/r8CASAedCKpPMMIr2xzXogPvecl5FfdcPBdwp0=",
         "owner": "~ehmry",
         "repo": "nim_sphincs",
-        "rev": "6a66c7b1c63553fddf3293b7072833a3d6ebb7df",
+        "rev": "036bfb8373f063d0dcd920ee4afefcb23107431c",
         "type": "sourcehut"
       },
       "original": {
         "owner": "~ehmry",
-        "ref": "master",
+        "ref": "v0.1.0",
         "repo": "nim_sphincs",
         "type": "sourcehut"
       }
