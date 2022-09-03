@@ -1,6 +1,0 @@
-*.html
-nimcache
-profile_results.txt
-sphincs+-reference-implementation*
-test
-*.req
